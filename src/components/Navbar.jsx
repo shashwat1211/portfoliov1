@@ -94,7 +94,7 @@ export const Navbar = () => {
             >Mail <HiOutlineMail size={30} /></a>
           </li>
           <li className='flex justify-between items-center w-[160px] h-[60px] ml-[-100px] hover:ml-[-10px] duration-500 bg-[#565f69]'>
-            <a href="https://portfolio013.netlify.app"
+            <a href="https://drive.google.com/file/d/1BdCA7_i1sl_zHg2kx3PnnnAepIk-Bgh7/view?usp=sharing"
               className='flex justify-between items-center w-full  text-white text-xl '
             >Resume  <BsFillPersonLinesFill size={35} /></a>
           </li>
